@@ -1,0 +1,30 @@
+1. What is the DOM?
+
+1an. The DOM in JavaScript stands for Document Object Model. It's used to access documents and various pieces of code and html elements in the browser.
+It's used to allow the JavaScript program access and update the content, structure, and style of all the diffrent Html elements. 
+
+
+
+2. What is an event?
+
+2an. In terms of JavaScript DOM an event is an action taken by a user of a website or web application like clicking the mouse on a specific element on a web page. 
+
+
+
+3. What is an event listener?
+
+3an. Even listener is a method or a function that carries out an action, or makes a change in a webpage when an event occurs like when a user clicks on a specific element of a webpage. 
+It attaches an event handler to a specified element. 
+
+
+
+4. Why would we convert a NodeList into an Array?
+ 
+4an. So we can manipulate the NodeList properties even more with all of the added array methods available to us. Gives us a more diverse choice of changes we can make to html elements once an event occurs
+For example array.reverst is not an available method for NodeList. 
+
+
+
+5. What is a component?
+
+5an. Components in JavaScript are re-usable pieces of code that allow for similar behaviors to occur to events on a webpage. It allows us to not have to repeat our code. They're like blueprint or template code. 
